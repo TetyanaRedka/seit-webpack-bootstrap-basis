@@ -1,0 +1,52 @@
+nav{
+    background-color: $navbar-background-color;
+    
+}
+
+// LOGO
+.logo{
+    height: 50px;
+}
+
+// LINKS
+.navbar-nav .nav-link.active{
+    transition: 1s;
+    color: #bccacf;
+}
+.navbar-nav .nav-link.active:hover{
+    transform: scale(1.2);
+    color: #fff;
+
+}
+
+// DROPDOWN
+.navvis, .navvis1{
+
+    position: relative; 
+    display: block;
+}
+
+.dblock{
+    display: none;
+    position: absolute;
+    // background-color: aqua;
+}
+
+.dblock1{
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 100%;
+    // background-color: aqua;
+}
+
+
+.navvis:hover .dblock {
+    display: block;
+    // background-color: red;
+}
+
+.navvis1:hover .dblock1 {
+    display: block;
+    // background-color: blue;
+}

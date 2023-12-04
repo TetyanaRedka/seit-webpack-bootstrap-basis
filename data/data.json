@@ -1,0 +1,46 @@
+{
+"infoCards" :[
+    {
+        "titel": "Business IT",
+        "parent": "Produkte",
+        "page": "mainPage",
+        "text": [
+            "Wir bieten Ihnen alles rund um die EDV."
+        ]
+    },
+    {
+        "titel": "Medical IT",
+        "parent": "Produkte",
+        "page": "mainPage",
+        "text": [
+            "die Dokumentations-, Management- und Abrechnungssoftware für alle niedergelassene Ärzte, Krankenhausambulanzen und Medizinische Versorgungszentren (MVZ). Neben der Abrechnung aller Tarife (EBM2008, GOÄ, BG-Abrechnung) beherrscht es auch die Abrechnung des Ambulanten Operierens (AMBO) nach §301 SGB V sowie die Abrechnung der Therapeuten nach §302 SGB V. Durch den modularen Aufbau, kann MEDICAL OFFICE auf jede Fachrichtung und Arbeitsweise angepasst werden.", 
+            "Durch Anbindung medizinischer Geräte über verschiedene Schnittstellen können Daten direkt in das Krankenblatt übernommen werden.",
+            "Unterstützung verschiendener Datenbanken entsprechend der Größe des Gesamtsystems auf verschiedenen Betriebssystemen.",
+            "ahlreiche Schnittstellen zur Kommunikation mit",
+            "anderen IT-Systemen im Krankenhaus wie HL7 (DFT, BAR, ORU), HCM, BDT, GDT sowie zu den Diagnosedokumentationssystemen ID Diacos® und KOPID®."
+
+
+        ] 
+    },
+    {
+        "titel": "Wir sind für Sie da!",
+        "parent": "Service",
+        "page": "mainPage",
+        "text": [
+            "Wenn Sie Fragen oder Probleme haben, können Sie natürlich über unsere Service-Hotline jederzeit mit uns in den Kontakt treten. Wir helfen Ihnen gerne weiter.",
+            "Die Berechnung erfolgt gemäß unseren Servicepauschalen oder gemäß Ihres Servicevertrages.",
+            "Wir freuen uns von Ihnen zu hören."
+        ]
+    },
+    {
+        "titel": "Wir sind für Sie da!, Wir sind für Sie da!",
+        "parent": "Service",
+        "page": "Page2",
+        "text": [
+            "Wenn Sie Fragen oder Probleme haben, können Sie natürlich über unsere Service-Hotline jederzeit mit uns in den Kontakt treten. Wir helfen Ihnen gerne weiter.",
+            "Die Berechnung erfolgt gemäß unseren Servicepauschalen oder gemäß Ihres Servicevertrages.",
+            "Wir freuen uns von Ihnen zu hören."
+        ]
+    }
+]
+}

@@ -1,0 +1,12 @@
+@import "~bootstrap/scss/bootstrap";
+@import './utils/variables';
+
+@import '../js/components/Navbar/navbar';
+@import '../js/components/Card/infocard';
+
+button{
+    color: red;
+    span{
+        color: green;
+    }
+}

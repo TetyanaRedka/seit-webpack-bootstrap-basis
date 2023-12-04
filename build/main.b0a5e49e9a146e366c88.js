@@ -1,0 +1,1 @@
+(()=>{"use strict";document.querySelector("nav"),console.log(12345),console.log(void console.log("это экспорт дефолт"))})();
