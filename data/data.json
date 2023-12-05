@@ -1,14 +1,17 @@
 {
 "infoCards" :[
     {
+        "id": 1,
         "titel": "Business IT",
         "parent": "Produkte",
         "page": "mainPage",
         "text": [
             "Wir bieten Ihnen alles rund um die EDV."
-        ]
+        ],
+        "url": "./carousel/carousel1.jpg"
     },
     {
+        "id": 2,
         "titel": "Medical IT",
         "parent": "Produkte",
         "page": "mainPage",
@@ -20,9 +23,11 @@
             "anderen IT-Systemen im Krankenhaus wie HL7 (DFT, BAR, ORU), HCM, BDT, GDT sowie zu den Diagnosedokumentationssystemen ID Diacos® und KOPID®."
 
 
-        ] 
+        ],
+        "url": "./carousel/carousel2.jpg"
     },
     {
+        "id": 3,
         "titel": "Wir sind für Sie da!",
         "parent": "Service",
         "page": "mainPage",
@@ -30,9 +35,11 @@
             "Wenn Sie Fragen oder Probleme haben, können Sie natürlich über unsere Service-Hotline jederzeit mit uns in den Kontakt treten. Wir helfen Ihnen gerne weiter.",
             "Die Berechnung erfolgt gemäß unseren Servicepauschalen oder gemäß Ihres Servicevertrages.",
             "Wir freuen uns von Ihnen zu hören."
-        ]
+        ],
+        "url": "./carousel/carousel3.jpg"
     },
     {
+        "id": 4,
         "titel": "Wir sind für Sie da!, Wir sind für Sie da!",
         "parent": "Service",
         "page": "Page2",
@@ -40,7 +47,8 @@
             "Wenn Sie Fragen oder Probleme haben, können Sie natürlich über unsere Service-Hotline jederzeit mit uns in den Kontakt treten. Wir helfen Ihnen gerne weiter.",
             "Die Berechnung erfolgt gemäß unseren Servicepauschalen oder gemäß Ihres Servicevertrages.",
             "Wir freuen uns von Ihnen zu hören."
-        ]
+        ],
+        "url": "./carousel/carousel1.jpg"
     }
 ]
 }

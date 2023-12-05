@@ -1,5 +1,5 @@
 export default {
   navbar: document.querySelector("nav"),
   infoBlock: document.querySelector("#infoblock"),
-  // carousel: document.querySelector("#carouselControls"),
+  carousel: document.querySelector("#carousel"),
 };

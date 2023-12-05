@@ -25,11 +25,6 @@ module.exports = (env) => {
 //       rules: [
 //
 //         {
-//           test: /\.(png|svg|jpg|jpeg|gif)$/i,
-//           type: "asset/resource",
-//         },
-
-//         {
 //           test: /\.(png|jpe?g|gif|svg)$/i,
 //           use: [
 //             {

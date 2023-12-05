@@ -7,6 +7,7 @@ import "./js/servise/render";
 
 // COMPONENTS //
 import "./js/components/Navbar/navbar";
+import "./js/components/Carousel/carousel";
 
 
 

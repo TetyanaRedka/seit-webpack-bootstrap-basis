@@ -10,6 +10,7 @@ module.exports = (env) => {
       path: pathDirect.BUILD_DIR,
       clean: true,
     },
+
     plugins: [
       new HtmlWebpackPlugin({
         template: pathDirect.PUBLIC_POINT,
@@ -17,10 +18,15 @@ module.exports = (env) => {
     ],
 
     module: {
-      rules: [{ test: /\.hbs$/, loader: "handlebars-loader" }],
+      rules: [
+        { test: /\.hbs$/, loader: "handlebars-loader" },
+        {
+          test: /\.(png|svg|jpg|jpeg|gif)$/i,
+          type: "asset/resource",
+        },
+      ],
     },
   };
 
   return config;
 };
-
